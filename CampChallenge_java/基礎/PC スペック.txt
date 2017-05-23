@@ -1,5 +1,0 @@
-﻿CPU   : Corei7 7500U @2.70GHz 2.90GHz
-GPU   : Intel HD Graphics 620(内臓) 
-メモり: ddr4 12GB
-SSD   : Micron 1100 SATA 512GB
-ディスプレイ: 1920x1080
