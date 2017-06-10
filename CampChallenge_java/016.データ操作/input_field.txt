@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>コントロールサンプル</title>
+</head>
+<body>
+  <from action="./test.jsp" method = "post">
+  <!-- テキストボックス、ラジオボタン、複数行テキストボックスの入力フィールドを作成 -->
+    <input type ="text" name="txtName">
+    <input type="radio" name="rdoSample">
+    <textarea name = "mulText"></textarea>
+    </form>
+</body>
+</html>

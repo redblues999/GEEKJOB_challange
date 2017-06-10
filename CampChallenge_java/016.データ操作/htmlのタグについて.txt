@@ -1,0 +1,41 @@
+htmlについて
+
+要素…タグ、タグに囲まれたテキストや画像などの内容を表す。
+
+<span style ="color:" #ff00ff;> テキスト</span>
+
+上のコードでいう
+
+span:要素名
+style:属性
+color:#ff00ff 属性値(この場合、R:255, G:0, B:255が割り振られている(紫色))
+
+<span style ="color:" #ff00ff;>　開始タグ
+
+テキスト:内容
+
+</span>終了タグ
+
+
+hrmlのタグについて
+/(スラッシュ)が前につくと、そのタグの終了を示す
+
+リンクの使い方
+<a href = "https://example.com">
+https://example.comを適当なURLに書き換えればOk
+
+<isindex> </isindex> :キーワード検索
+
+<meta> </meta> :文章情報
+
+<hr> 横罫線を引く
+
+<p> </p> 段落
+
+<sub> </sub>　下付け文字、化学式とかで使う
+
+<sup> </sup>　上付け文字、累乗とかで使う
+
+<u> </u>　アンダーライン
+
+…など。
